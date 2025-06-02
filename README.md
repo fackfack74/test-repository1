@@ -14,6 +14,13 @@ __*이태리가*두꺼비__
 
 ![사진](https://picsum.photos/1000/400 "검둥개")
 
+
+[![HEROPY.DEV](/favicon.png)](https://heropy.dev/)
+
+
+
+# 검둥개의 url이 아닌 네이버로 이동
+[![네이버로 가는 검둥개](https://picsum.photos/1000/400 "검둥개")](https://naver.com)
 `백그라운드` 혹은 `백그라운드-이미지` 속성으로 요소에 배경 이미지를 삽입할 수 있습니다.
 
 1. 순서가 있는 항목
